@@ -1,4 +1,4 @@
-﻿# proxy pool
+﻿# [Proxy-Pool](https://github.com/sggs7654/proxy-pool)
 本项目实现了一个通用爬虫代理池，主要特性如下：
 - 通过付费代理API获得代理地址
 - 使用Redis保存代理地址和状态信息
