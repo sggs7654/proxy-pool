@@ -1,5 +1,5 @@
 ﻿# [Proxy-Pool](https://github.com/sggs7654/proxy-pool)
-本项目实现了一个通用爬虫代理池，主要特性如下：
+本项目参考[崔庆才-ProxyPool](https://github.com/Python3WebSpider/ProxyPool), 实现了一个通用爬虫代理池，主要特性如下：
 - 通过付费代理API获得代理地址
 - 使用Redis保存代理地址和状态信息
 - 循环检测代理池中的代理地址有效性，使用一个0-100的分数指标来评估所有代理的可用状态
